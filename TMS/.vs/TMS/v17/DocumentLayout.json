@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|solutionrelative:loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|solutionrelative:loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{08AA1F9F-D06F-47D8-A23F-35DC7CBFBDC3}|TMS.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -30,12 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -44,10 +40,14 @@
               "RelativeDocumentMoniker": "LoginPage.xaml.cs",
               "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\LoginPage.xaml.cs",
               "RelativeToolTip": "LoginPage.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA1wCQAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-08T09:15:31.043Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -58,8 +58,7 @@
               "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T09:12:11.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T09:12:11.947Z"
             },
             {
               "$type": "Document",
@@ -70,8 +69,7 @@
               "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\LoginPage.xaml",
               "RelativeToolTip": "LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T09:11:33.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T09:11:33.824Z"
             },
             {
               "$type": "Document",
@@ -82,8 +80,7 @@
               "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T05:21:24.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T05:21:24.255Z"
             },
             {
               "$type": "Document",
@@ -95,8 +92,7 @@
               "RelativeToolTip": "MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T05:21:22.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T05:21:22.656Z"
             }
           ]
         },
