@@ -22,3 +22,4 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS\obj\Debug\TMS.csproj.Core
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS\obj\Debug\TMS.csproj.Up2Date
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS\obj\Debug\TMS.exe
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS\obj\Debug\TMS.pdb
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS\obj\Debug\TMS.exe.config
