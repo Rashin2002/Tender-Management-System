@@ -1,0 +1,75 @@
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.exe
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.deps.json
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.runtimeconfig.json
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.pdb
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.csproj.AssemblyReference.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\App.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_MarkupCompile.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_MarkupCompile.lref
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\App.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\MainWindow.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.g.resources
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.GeneratedMSBuildEditorConfig.editorconfig
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.AssemblyInfoInputs.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.AssemblyInfo.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.csproj.CoreCompileInputs.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.sourcelink.json
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.csproj.Up2Date
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\refint\TMS NET8.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.pdb
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.genruntimeconfig.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\ref\TMS NET8.dll

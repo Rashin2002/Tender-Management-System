@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\database\\dbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T10:17:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\App.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\App.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:25:22.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\App.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\App.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\App.xaml",
+              "RelativeToolTip": "TMS NET8\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-18T08:12:54.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
+              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-18T07:56:45.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DBConnection.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Database\\DBConnection.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\Database\\DBConnection.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Database\\DBConnection.cs",
+              "RelativeToolTip": "TMS NET8\\Database\\DBConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:31:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\MainWindow.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\MainWindow.xaml",
+              "RelativeToolTip": "TMS NET8\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-18T07:19:33.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T07:19:31.791Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
