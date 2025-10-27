@@ -79,7 +79,7 @@ namespace TMS_NET8.View.Tender_Manager {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TMS NET8;V1.0.0.0;component/view/tender%20manager/buyingauthoritydetails.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TMS NET8;component/view/tender%20manager/buyingauthoritydetails.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\View\Tender Manager\BuyingAuthorityDetails.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

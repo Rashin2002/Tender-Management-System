@@ -79,7 +79,7 @@ namespace TMS_NET8.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TMS NET8;V1.0.0.0;component/view/loginpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TMS NET8;component/view/loginpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\LoginPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

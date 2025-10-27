@@ -12,8 +12,15 @@
   <ItemGroup>
     <None Remove="Assets\DSK LOGO.png" />
     <None Remove="Assets\login_banner.jpeg" />
+    <None Remove="Assets\login_banner1.jpeg" />
     <None Remove="Assets\ProfileLogo.png" />
     <None Remove="Assets\ProfileLogo1.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Assets\login_banner1.jpeg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
@@ -21,6 +28,9 @@
     <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.2" />
     <PackageReference Include="Microsoft.Xaml.Behaviors.Wpf" Version="1.1.39" />
+    <PackageReference Include="MigraDocCore.DocumentObjectModel" Version="1.3.67" />
+    <PackageReference Include="MigraDocCore.Rendering" Version="1.3.67" />
+    <PackageReference Include="PDFsharp-MigraDoc-GDI" Version="6.2.2" />
   </ItemGroup>
 
   <ItemGroup>
