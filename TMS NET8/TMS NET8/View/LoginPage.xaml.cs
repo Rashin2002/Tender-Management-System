@@ -2,8 +2,14 @@
 using System;
 using System.Windows;
 using System.Windows.Controls;
+using TMS_NET8.View.Financial_Manager;
+using TMS_NET8.View.Stock_Manager;
+using TMS_NET8.View.Supply_Chain_Manager;
+using TMS_NET8.View.Supply_Chain_Team;
 using TMS_NET8.View.Tender_Manager;
 using TMS_NET8.View.Tender_Team;
+using TMS_NET8.View.Administrative_Assistant;
+using TMS_NET8.View.Project_Manager;
 
 namespace TMS_NET8.View
 {
@@ -103,7 +109,7 @@ namespace TMS_NET8.View
         // Removed 'Possible null reference argument' warning by removing '?' from string empId parameter
         private string? GetEmployeeRole(string empId, SqlConnection con)
         {
-            string[] tables = { "TenderTeam", "TenderManager", "StockManager", "SupplyChainTeam" };
+            string[] tables = { "TenderTeam", "TenderManager", "StockManager", "SupplyChainManager", "SupplyChainTeam", "FinancialManager", "ProjectManager", "AdministrativeAssistant"};
 
             foreach (var table in tables)
             {
@@ -127,18 +133,36 @@ namespace TMS_NET8.View
             switch (role)
             {
                 case "TenderTeam":
-                    // FIX 3: 'TenderTeamDashboard' does not contain a constructor that takes 1 arguments
-                    // The constructor needs to be created or its parameter list must be changed to match.
-                    // Assuming the constructor should take the name, we use an empty constructor here 
-                    // and rely on a method to set the name, or you MUST modify TenderTeamDashboard.
-                    // We'll assume the dashboard requires the name, so we'll pass it and expect the dashboard to be fixed.
                     dashboard = new TenderTeamDashboard(empId, empName);
                     break;
                 case "TenderManager":
-                    // FIX 3: 'TenderManagerDashboard' does not contain a constructor that takes 1 arguments
-                    dashboard = new TenderManagerDashboard();
+                    dashboard = new TenderManagerDashboard(empId, empName);
                     break;
-                
+
+                case "StockManager":
+                    dashboard = new StockManagerDashboard(empId, empName);
+                    break;
+
+                case "SupplyChainManager":
+                    dashboard = new SupplyChainManagerDashboard(empId, empName);
+                    break;
+
+                case "SupplyChainTeam":
+                    dashboard = new SupplyChainTeamDashboard(empId, empName);
+                    break;
+
+                case "FinancialManager":
+                    dashboard = new FinancialManagerDashboard(empId, empName);
+                    break;
+
+                case "ProjectManager":
+                    dashboard = new ProjectManagerDashboard(empId, empName);
+                    break;
+
+                case "AdministrativeAssistant":
+                    dashboard = new AdministrativeAssistantDashboard(empId, empName);
+                    break;
+
                 default:
                     MessageBox.Show("Role not recognized.", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                     return;

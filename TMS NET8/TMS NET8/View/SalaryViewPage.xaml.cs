@@ -135,7 +135,7 @@ namespace TMS_NET8.View
             section.PageSetup.RightMargin = Unit.FromCentimeter(1.5);
 
             // Add watermark image to the header (centered)
-            string watermarkPath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "login_banner1.jpeg");
+            string watermarkPath = System.IO.Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Assets", "WatermarkReport.png");
             if (File.Exists(watermarkPath))
             {
                 var headerSection = section.Headers.Primary; // renamed

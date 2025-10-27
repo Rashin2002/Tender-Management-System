@@ -27,9 +27,15 @@ namespace TMS_NET8.View.Tender_Manager
     public partial class TenderManagerDashboard : Window
     {
         private CTender controller = new CTender();
-        public TenderManagerDashboard()
+
+        private string empId;
+        private string empName;
+        public TenderManagerDashboard(string empId, string empName)
         {
             InitializeComponent();
+            this.empId = empId;
+            this.empName = empName;
+            lblWelcome.Text = $"Welcome {empName}!";
             LoadTenders();
             LoadcmbTenderIssuerDashboardData();
             LoadcmbTenderStatusDashboardData();
