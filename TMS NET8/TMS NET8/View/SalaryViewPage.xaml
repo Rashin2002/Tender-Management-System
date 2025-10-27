@@ -1,0 +1,61 @@
+﻿<Window x:Class="TMS_NET8.View.SalaryViewPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        
+        Title="Employee Salary Details"
+        Height="700" Width="1000"
+        WindowStartupLocation="CenterOwner"
+        Background="#ECEFF1">
+
+    <Grid Margin="20">
+        <StackPanel>
+            <TextBlock Text="Employee Salary History"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Foreground="#2C3E50"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,5"/>
+
+            <TextBlock Text="Viewing detailed salary and allowance records"
+                       FontSize="14"
+                       Foreground="#7F8C8D"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,20">
+                <materialDesign:PackIcon Kind="Account" VerticalAlignment="Center" Margin="0,0,5,0" Foreground="#3498DB"/>
+                <TextBlock Text="Employee: " FontWeight="SemiBold" Foreground="#2C3E50"/>
+                <TextBlock x:Name="lblEmployeeName" Text="[Employee Name Placeholder]" Foreground="#2C3E50"/>
+            </StackPanel>
+
+            <Button Content="Close Window"
+                    Width="150"
+                    Height="40"
+                    HorizontalAlignment="Right"
+                    Background="#95A5A6"
+                    Foreground="White"
+                    FontSize="16"
+                    Click="btnClose_Click"
+                    Style="{StaticResource MaterialDesignRaisedButton}"/>
+
+            <DataGrid Name="SalaryGrid"
+                      Grid.Row="2"
+                      AutoGenerateColumns="True"
+                      BorderBrush="#BDC3C7"
+                      Background="Transparent" 
+                      
+                      materialDesign:DataGridAssist.CellPadding="8"
+                      materialDesign:DataGridAssist.ColumnHeaderPadding="10"
+                      materialDesign:DataGridAssist.EnableEditBoxAssist="True"
+                      IsReadOnly="True"
+                      CanUserAddRows="False"
+                      CanUserDeleteRows="False">
+            </DataGrid>
+
+            
+        </StackPanel>
+    </Grid>
+</Window>
