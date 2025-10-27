@@ -9,5 +9,6 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/login_banner1.jpeg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("assets/watermarkreport.png")]
 
 

@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\salaryviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\salaryviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\model\\memployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\model\\memployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\salaryviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\salaryviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\tender team\\tenderteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\tender team\\tenderteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\model\\msalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\model\\msalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\model\\mtender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\model\\mtender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\controller\\csalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\controller\\csalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\controller\\ctender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\controller\\ctender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\tender team\\tenderteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\tender team\\tenderteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\project manager\\projectmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\project manager\\projectmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain manager\\supplychainmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain manager\\supplychainmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,157 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "MEmployee.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MEmployee.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\Model\\MEmployee.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MEmployee.cs",
-              "RelativeToolTip": "TMS NET8\\Model\\MEmployee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Title": "SupplyChainTeamDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T10:49:48.865Z",
+              "WhenOpened": "2025-10-27T21:38:13.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SalaryViewPage.xaml.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\SalaryViewPage.xaml.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\View\\SalaryViewPage.xaml.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\SalaryViewPage.xaml.cs*",
-              "RelativeToolTip": "TMS NET8\\View\\SalaryViewPage.xaml.cs*",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAWwIkAAAB+AAAAAAAAAA==",
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:19:06.409Z",
+              "WhenOpened": "2025-10-27T21:36:04.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TenderTeamDashboard.xaml.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml.cs",
-              "RelativeToolTip": "TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAWwNcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T02:48:44.855Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CSalary.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Controller\\CSalary.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\Controller\\CSalary.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Controller\\CSalary.cs",
-              "RelativeToolTip": "TMS NET8\\Controller\\CSalary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:37:04.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SalaryViewPage.xaml",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\SalaryViewPage.xaml",
-              "RelativeDocumentMoniker": "TMS NET8\\View\\SalaryViewPage.xaml",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\SalaryViewPage.xaml",
-              "RelativeToolTip": "TMS NET8\\View\\SalaryViewPage.xaml",
+              "Title": "SupplyChainTeamDashboard.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T05:03:23.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MTender.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MTender.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\Model\\MTender.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MTender.cs",
-              "RelativeToolTip": "TMS NET8\\Model\\MTender.cs",
-              "ViewState": "AgIAAM8BAAAAAAAAAIBJwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:29:05.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CTender.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Controller\\CTender.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\Controller\\CTender.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Controller\\CTender.cs",
-              "RelativeToolTip": "TMS NET8\\Controller\\CTender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:29:07.855Z",
+              "WhenOpened": "2025-10-27T21:19:38.403Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MSalary.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MSalary.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\Model\\MSalary.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\Model\\MSalary.cs",
-              "RelativeToolTip": "TMS NET8\\Model\\MSalary.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA6wBMAAAAWAAAAAAAAAA==",
+              "Title": "SupplyChainManagerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T05:37:22.032Z",
+              "WhenOpened": "2025-10-27T18:34:56.588Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TenderTeamDashboard.xaml",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml",
-              "RelativeDocumentMoniker": "TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml",
-              "RelativeToolTip": "TMS NET8\\View\\Tender Team\\TenderTeamDashboard.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T02:58:08.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
               "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml",
               "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
               "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-27T02:40:42.8Z",
+              "WhenOpened": "2025-10-27T16:47:38.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml.cs",
-              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
-              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAIBJwE0AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProjectManagerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T01:58:07.142Z",
+              "WhenOpened": "2025-10-27T23:06:21.956Z",
               "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

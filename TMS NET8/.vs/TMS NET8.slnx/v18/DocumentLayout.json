@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\project manager\\projectmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\project manager\\projectmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain team\\supplychainteamdashboard.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\supply chain manager\\supplychainmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\supply chain manager\\supplychainmanagerdashboard.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|d:\\nibm\\dse\\final project\\tender-management-system\\tms net8\\tms net8\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E58EB022-7A56-A050-A845-CE55A909E254}|TMS NET8\\TMS NET8.csproj|solutionrelative:tms net8\\view\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplyChainTeamDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:38:13.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAuwGkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T21:36:04.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupplyChainTeamDashboard.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Team\\SupplyChainTeamDashboard.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T21:19:38.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SupplyChainManagerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Supply Chain Manager\\SupplyChainManagerDashboard.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T18:34:56.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\LoginPage.xaml",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\LoginPage.xaml",
+              "RelativeToolTip": "TMS NET8\\View\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-27T16:47:38.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectManagerDashboard.xaml.cs",
+              "DocumentMoniker": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "RelativeDocumentMoniker": "TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "ToolTip": "D:\\NIBM\\DSE\\Final Project\\Tender-Management-System\\TMS NET8\\TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "RelativeToolTip": "TMS NET8\\View\\Project Manager\\ProjectManagerDashboard.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T23:06:21.956Z",
+              "EditorCaption": ""
             }
           ]
         }

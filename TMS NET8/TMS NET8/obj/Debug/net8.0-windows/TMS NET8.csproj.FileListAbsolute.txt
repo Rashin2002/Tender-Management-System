@@ -1,3 +1,5 @@
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Assets\login_banner1.jpeg
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Assets\WatermarkReport.png
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.exe
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.deps.json
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\TMS NET8.runtimeconfig.json
@@ -75,8 +77,12 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.csproj.AssemblyReference.cache
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Financial Manager\FinancialManagerDashboard.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Stock Manager\StockManagerDashboard.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Supply Chain Manager\SupplyChainManagerDashboard.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Supply Chain Team\SupplyChainTeamDashboard.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\BuyingAuthorityDetails.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\SingleTenderDetails.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\TenderManagerDashboard.baml
@@ -85,8 +91,12 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Team\TenderTeamDashboard.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\App.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Financial Manager\FinancialManagerDashboard.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Stock Manager\StockManagerDashboard.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Supply Chain Manager\SupplyChainManagerDashboard.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Supply Chain Team\SupplyChainTeamDashboard.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\BuyingAuthorityDetails.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\SingleTenderDetails.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\TenderManagerDashboard.g.cs
@@ -94,6 +104,7 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Team\SingleTenderDetails.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Team\TenderTeamDashboard.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\App.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_Content.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_MarkupCompile.cache
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_MarkupCompile.lref
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\MainWindow.baml
@@ -109,5 +120,7 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.pdb
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.genruntimeconfig.cache
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\ref\TMS NET8.dll
-D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Assets\login_banner1.jpeg
-D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_Content.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Administrative Assistant\AdministrativeAssistantDashboard.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Project Manager\ProjectManagerDashboard.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Administrative Assistant\AdministrativeAssistantDashboard.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Project Manager\ProjectManagerDashboard.baml

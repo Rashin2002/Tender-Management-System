@@ -36,6 +36,16 @@
                            Margin="-28,30,0,0"/>
             </StackPanel>
 
+            <!-- Welcome Message -->
+            <TextBlock x:Name="lblWelcome"
+                       Text="Welcome!"
+                       FontSize="18"
+                       FontWeight="Bold"
+                       Foreground="#3498DB"
+                       Margin="20,0,0,20"
+                       HorizontalAlignment="Left"
+                       VerticalAlignment="Top"/>
+
             <Button Content="Home" Style="{StaticResource MaterialDesignRaisedButton}" Margin="10" Foreground="Black" Background="#3498DB"/>
             <Button Content="Salary Details" Style="{StaticResource MaterialDesignRaisedButton}" Margin="10" Foreground="White" Background="#34495E"/>
             <Button Content="Buying Authority Details" Click ="btnBuyingAuthDetails" Style="{StaticResource MaterialDesignRaisedButton}" Margin="10" Foreground="White" Background="#34495E"/>

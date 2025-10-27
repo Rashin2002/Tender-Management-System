@@ -2,10 +2,28 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup />
   <ItemGroup>
+    <Compile Update="View\Administrative Assistant\AdministrativeAssistantDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Financial Manager\FinancialManagerDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\LoginPage.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="View\Project Manager\ProjectManagerDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="View\SalaryViewPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Stock Manager\StockManagerDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supply Chain Manager\SupplyChainManagerDashboard.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Supply Chain Team\SupplyChainTeamDashboard.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="View\Tender Manager\BuyingAuthorityDetails.xaml.cs">

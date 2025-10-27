@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
         Title="Tender Manager - Single Tender Details"
-        Height="680" Width="1000"
+        Height="700" Width="1000"
         WindowStartupLocation="CenterScreen"
         Background="#ECEFF1">
 
@@ -139,7 +139,7 @@
                 <StackPanel Grid.Row="7" Grid.ColumnSpan="5" Orientation="Horizontal" HorizontalAlignment="Left" Margin="0,20,0,0">
                     <Button Content="Reject Tender" Width="150" Height="40" Margin="0,0,10,0" BorderBrush="Transparent" FontStyle="Italic" Background="Transparent" Foreground="Black" FontSize="16"  Style="{StaticResource MaterialDesignRaisedButton}"/>
                     <Button Content="Accept Tender" Width="150" Height="40" Margin="0,0,10,0" Background="#2C3E50" Foreground="White" FontSize="16"  Style="{StaticResource MaterialDesignRaisedButton}"/>
-                    <Button Content="Generate Tender Report" Width="220" Height="40" Margin="0,0,0,0" Background="#3498DB" Foreground="White" FontSize="16"  Style="{StaticResource MaterialDesignRaisedButton}"/>
+                    <Button Content="Generate Tender Report" Click="btnGenerateTenderReport" Width="220" Height="40" Margin="0,0,0,0" Background="#3498DB" Foreground="White" FontSize="16"  Style="{StaticResource MaterialDesignRaisedButton}"/>
                 </StackPanel>
             </Grid>
         </StackPanel>
