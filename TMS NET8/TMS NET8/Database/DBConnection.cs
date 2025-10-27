@@ -11,7 +11,7 @@ namespace TMS_NET8.Database
     {
         public static SqlConnection CreateConnection()
         {
-            string connectionString = "Data Source=Rashinpc;Initial Catalog=TenderDB;Integrated Security=True;Encrypt=False;TrustServerCertificate=True";
+            string connectionString = "Data Source=Rashinpc;Initial Catalog=DSK;Integrated Security=True;Encrypt=False;TrustServerCertificate=True";
             SqlConnection con = new SqlConnection(connectionString);
             con.Open();
             return con;

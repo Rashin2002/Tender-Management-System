@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\App.xaml
-21738245754
+9-2121450258
 
-61334123114
+17150493574
 2201433650867
-MainWindow.xaml;View\LoginPage.xaml;
+MainWindow.xaml;View\LoginPage.xaml;View\SalaryViewPage.xaml;View\Tender Manager\BuyingAuthorityDetails.xaml;View\Tender Manager\SingleTenderDetails.xaml;View\Tender Manager\TenderManagerDashboard.xaml;View\Tender Team\AddTender.xaml;View\Tender Team\SingleTenderDetails.xaml;View\Tender Team\TenderTeamDashboard.xaml;
 
-True
+False
 

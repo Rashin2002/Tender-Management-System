@@ -1,0 +1,136 @@
+﻿<Window x:Class="TMS_NET8.View.Tender_Team.SingleTenderDetails"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Tender Team - Single Tender Details"
+        Height="680" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        Background="#ECEFF1">
+
+    <Grid Margin="30">
+        <Image Source="/Assets/login_banner.jpeg"
+               Opacity="0.1"
+               Stretch="Uniform"
+               Panel.ZIndex="-1"
+               IsHitTestVisible="False"/>
+        <StackPanel>
+            <TextBlock Text="Tender Details"
+                       FontSize="24"
+                       FontWeight="Bold"
+                       Foreground="#2C3E50"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,10"/>
+
+            <TextBlock Text="View, edit, or delete tender information below"
+                       FontSize="14"
+                       Foreground="#7F8C8D"
+                       HorizontalAlignment="Center"
+                       Margin="0,0,0,20"/>
+
+            <Grid VerticalAlignment="Top" Margin="10,0,10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="10"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <StackPanel Grid.Row="0" Grid.Column="0" Margin="0,0,0,15">
+                    <TextBlock Text="Tender ID" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderId" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10" IsReadOnly="True" Background="#F5F5F5"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0" Grid.Column="2" Margin="0,0,0,15">
+                    <TextBlock Text="Tender Title" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderTitle" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0" Grid.Column="4" Margin="0,0,0,15">
+                    <TextBlock Text="Tender Issuer" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="cmbBuyingAuthName"
+                              Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                              
+                              Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Grid.Column="0" Margin="0,0,0,15">
+                    <TextBlock Text="Item" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="cmbTenderItem" 
+                              Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                              SelectionChanged="cmbTenderItem_SelectionChanged"
+                              Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Grid.Column="2" Margin="0,0,0,15">
+                    <TextBlock Text="Item Brand Name" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <ComboBox x:Name="cmbItemBrandName" 
+                              Style="{StaticResource MaterialDesignOutlinedComboBox}"
+                              SelectionChanged="cmbTenderItemBrand_SelectionChanged"
+                              Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="1" Grid.Column="4" Margin="0,0,0,15">
+                    <TextBlock Text="Unit Price" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderUnitPrice" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="0" Margin="0,0,0,15">
+                    <TextBlock Text="Bid Amount" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderBidAmt" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="2" Margin="0,0,0,15">
+                    <TextBlock Text="Item Quantity" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderItemQty" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="2" Grid.Column="4" Margin="0,0,0,15">
+                    <TextBlock Text="Deadline" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <DatePicker x:Name="dateTenderDeadline" Style="{StaticResource MaterialDesignOutlinedDatePicker}" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="3" Margin="0,0,0,15">
+                    <TextBlock Text="Tender Description" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderDesc" Style="{StaticResource MaterialDesignOutlinedTextBox}" AcceptsReturn="True" TextWrapping="Wrap" Height="70" VerticalScrollBarVisibility="Auto" Padding="10"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="3" Grid.Column="4" Margin="0,0,0,15">
+                    <TextBlock Text="Tender Status" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderStatus" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10" IsReadOnly="True" Background="#F5F5F5"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="4" Grid.Column="0" Margin="0,0,0,15">
+                    <TextBlock Text="Start Date" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <DatePicker x:Name="dateTenderStartDate" Style="{StaticResource MaterialDesignOutlinedDatePicker}" Padding="10" IsEnabled="False" Background="#F5F5F5"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="4" Grid.Column="2" Margin="0,0,0,15">
+                    <TextBlock Text="Close Date" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <DatePicker x:Name="dateTenderCloseDate" Style="{StaticResource MaterialDesignOutlinedDatePicker}" Padding="10" IsEnabled="False" Background="#F5F5F5"/>
+                </StackPanel>
+
+                <StackPanel Grid.Row="4" Grid.Column="4" Margin="0,0,0,15">
+                    <TextBlock Text="Total Amount" FontWeight="SemiBold" Foreground="#2C3E50" Margin="0,0,0,5"/>
+                    <TextBox x:Name="txtTenderTotalAmt" Style="{StaticResource MaterialDesignOutlinedTextBox}" Padding="10" IsReadOnly="True" Background="#F5F5F5"/>
+                </StackPanel>
+
+
+                <StackPanel Grid.Row="6" Grid.ColumnSpan="5" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                    <Button Content="Update" Width="120" Height="40" Margin="0,0,10,0" Background="#2C3E50" Foreground="White" FontSize="16" Click="btnUpdate" Style="{StaticResource MaterialDesignRaisedButton}"/>
+                    <Button Content="Delete" Width="120" Height="40" Margin="0,0,10,0" Background="#E74C3C" Foreground="White" FontSize="16" Click="btnDelete" Style="{StaticResource MaterialDesignRaisedButton}"/>
+                    <Button Content="Close" Width="100" Height="40" Margin="0,0,0,0" Background="#95A5A6" Foreground="White" FontSize="16" Click="btnClose" Style="{StaticResource MaterialDesignRaisedButton}"/>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
