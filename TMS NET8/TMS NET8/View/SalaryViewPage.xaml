@@ -46,7 +46,7 @@
                       AutoGenerateColumns="True"
                       BorderBrush="#BDC3C7"
                       Background="Transparent" 
-                      
+                      MouseDoubleClick="SalaryGrid_MouseDoubleClick"
                       materialDesign:DataGridAssist.CellPadding="8"
                       materialDesign:DataGridAssist.ColumnHeaderPadding="10"
                       materialDesign:DataGridAssist.EnableEditBoxAssist="True"

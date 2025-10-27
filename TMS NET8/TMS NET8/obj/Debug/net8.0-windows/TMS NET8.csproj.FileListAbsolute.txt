@@ -12,7 +12,9 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
@@ -26,6 +28,25 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MigraDocCore.DocumentObjectModel.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MigraDocCore.Rendering.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.BarCodes-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.Charting-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.Cryptography.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.Quality-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.Shared.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.Snippets-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.System.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharp.WPFonts.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MigraDoc.DocumentObjectModel.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MigraDoc.Rendering-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\MigraDoc.RtfRendering-gdi.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharpCore.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\PdfSharpCore.Charting.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\ICSharpCode.SharpZipLib.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\SixLabors.Fonts.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\SixLabors.ImageSharp.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.ClientModel.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
@@ -45,6 +66,7 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\de\PdfSharpCore.resources.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
@@ -54,6 +76,7 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.csproj.AssemblyReference.cache
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.baml
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\BuyingAuthorityDetails.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\SingleTenderDetails.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\TenderManagerDashboard.baml
@@ -63,6 +86,7 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\App.baml
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\LoginPage.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\BuyingAuthorityDetails.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\SingleTenderDetails.g.cs
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\Tender Manager\TenderManagerDashboard.g.cs
@@ -85,5 +109,5 @@ D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\n
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.pdb
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8.genruntimeconfig.cache
 D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\ref\TMS NET8.dll
-D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.baml
-D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\View\SalaryViewPage.g.cs
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\bin\Debug\net8.0-windows\Assets\login_banner1.jpeg
+D:\NIBM\DSE\Final Project\Tender-Management-System\TMS NET8\TMS NET8\obj\Debug\net8.0-windows\TMS NET8_Content.g.cs
